@@ -3,7 +3,7 @@ package com.java.collections.arraylist;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AccessArrayListDemo {
+public class AccessElementsInArrayListDemo {
     public static void main(String[] args) {
         // Check if an ArrayList is empty using the isEmpty() method
         List<String> topProgLanguages = new ArrayList<>();
